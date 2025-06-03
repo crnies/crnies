@@ -17,6 +17,7 @@ Contributions to data documentation and analytics enablement tools that help sca
 
 ⚡ Fun facts:
 I'm passionate about turning messy data into meaningful insight
+
 I love designing dashboards that are not just informative, but also visually engaging
 
 
