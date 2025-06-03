@@ -3,8 +3,8 @@
 - 🔭I'm currently working on...
 - Building automated reporting solutions using Power BI and DAX to drive strategic decisions at an enterprise level
 - Developing a data quality framework to validate ETL pipelines using Python and SQL
--Exploring real-time data dashboards and integrating APIs for up-to-date visual insights
-Bolstering my expertise with career certifications
+- Exploring real-time data dashboards and integrating APIs for up-to-date visual insights
+- Bolstering my expertise with career certifications
 
 - 🌱I'm currently learning...
 - Advanced statistical modeling techniques (regression, time series) using Python
