@@ -6,13 +6,13 @@
 - Bolstering my expertise with career certifications
 
 🌱I'm currently learning...
-- Advanced statistical modeling techniques (regression, time series) using Python
+- Writing reusable Python functions and applying looping techniques to automate data cleaning, transformation, and analysis
 - dbt (data build tool) to improve data transformation workflows in the modern data stack
 - Cloud data tools like Snowflake and BigQuery to scale data analytics across teams
 
 👯 I'm looking to collaborate on...
 - Open-source data storytelling projects using public datasets
-- Building insightful and interactive dashboards using Power BI, Tableau, or Streamlit
+- Building insightful and interactive dashboards using Power BI, Tableau, or Looker
 - Contributions to data documentation and analytics enablement tools that help scale data culture in organizations
 
 ⚡ Fun facts:
