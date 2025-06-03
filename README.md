@@ -4,6 +4,7 @@
 Building automated reporting solutions using Power BI and DAX to drive strategic decisions at an enterprise level
 Developing a data quality framework to validate ETL pipelines using Python and SQL
 Exploring real-time data dashboards and integrating APIs for up-to-date visual insights
+Bolstering my expertise with career certificaitons
 
 - 🌱I'm currently learning...
 Advanced statistical modeling techniques (regression, time series) using Python
@@ -17,7 +18,6 @@ Contributions to data documentation and analytics enablement tools that help sca
 
 ⚡ Fun facts:
 I'm passionate about turning messy data into meaningful insight
-
 I love designing dashboards that are not just informative, but also visually engaging
 
 
