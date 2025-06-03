@@ -17,8 +17,8 @@ Building insightful and interactive dashboards using Power BI, Tableau, or Strea
 Contributions to data documentation and analytics enablement tools that help scale data culture in organizations
 
 ⚡ Fun facts:
-I'm passionate about turning messy data into meaningful insight
-I love designing dashboards that are not just informative, but also visually engaging
+- I'm passionate about turning messy data into meaningful insight
+- I love designing dashboards that are not just informative, but also visually engaging
 
 
 
